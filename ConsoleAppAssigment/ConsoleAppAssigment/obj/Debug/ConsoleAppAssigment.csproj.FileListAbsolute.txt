@@ -1,0 +1,7 @@
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\bin\Debug\ConsoleAppAssigment.exe.config
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\bin\Debug\ConsoleAppAssigment.exe
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\bin\Debug\ConsoleAppAssigment.pdb
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\obj\Debug\ConsoleAppAssigment.csproj.AssemblyReference.cache
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\obj\Debug\ConsoleAppAssigment.csproj.CoreCompileInputs.cache
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\obj\Debug\ConsoleAppAssigment.exe
+C:\Users\saeyr\source\repos\ConsoleAppAssigment\ConsoleAppAssigment\obj\Debug\ConsoleAppAssigment.pdb
