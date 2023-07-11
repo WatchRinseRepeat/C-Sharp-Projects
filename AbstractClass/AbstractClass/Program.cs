@@ -10,9 +10,9 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee { FirstName = "Sample", LastName = "Student" };
+            Employee employee = new Employee { FirstName = "Sample", LastName = "Student" }; //Instantiate employee
 
-            employee.SayName();
+            employee.SayName(); //call the method
 
             Console.ReadLine();
         }
