@@ -13,7 +13,7 @@ namespace MainMethod
             return number + 5; //Add 5 to the int
         }
 
-        public int Addition(double number)
+        public int Addition(decimal number)
         {
             return Convert.ToInt32(number + 5); //Add 5 to the double and then convert to Int
         }

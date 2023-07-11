@@ -12,7 +12,7 @@ namespace MainMethod
         {
             MathOp mathOp = new MathOp();
             Console.WriteLine(mathOp.Addition(5));  //call the int version 
-            Console.WriteLine(mathOp.Addition(5.5)); //call the double version
+            Console.WriteLine(mathOp.Addition(5.5m)); //call the double version
             Console.WriteLine(mathOp.Addition("5")); //call the string version
 
             Console.ReadLine();
