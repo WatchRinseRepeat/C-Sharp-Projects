@@ -13,8 +13,8 @@ namespace AbstractClass
 
         public virtual void SayName() //method to say the full name in the console
         {
-            string fullName = FirstName + " " + LastName;
-            Console.WriteLine("Name: " + fullName);
+            
+            
         }
     }
 
