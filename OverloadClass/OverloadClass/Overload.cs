@@ -15,12 +15,17 @@ namespace OverloadClass
 
         public void Divide(string num1)  //Overload a method
         {
-            Console.WriteLine(Convert.ToInt32(num1)/ 2); 
+            Console.WriteLine(Convert.ToInt32(num1) / 2);
         }
 
-        public static string Explain() //Create a method with output parameters AND Declare a class to be static
+        public void Explain(out string explination)  //Create a method with and Out parameter
         {
-            return ("This method took no parameters.");
+            explination = "This method took no parameters.";
         }
     }
+
+    static class This
+        {
+            //This is a static class
+        }
 }
