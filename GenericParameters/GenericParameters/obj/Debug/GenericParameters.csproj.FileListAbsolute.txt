@@ -1,0 +1,7 @@
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\bin\Debug\GenericParameters.exe.config
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\bin\Debug\GenericParameters.exe
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\bin\Debug\GenericParameters.pdb
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\obj\Debug\GenericParameters.csproj.AssemblyReference.cache
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\obj\Debug\GenericParameters.csproj.CoreCompileInputs.cache
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\obj\Debug\GenericParameters.exe
+C:\Users\saeyr\source\repos\GenericParameters\GenericParameters\obj\Debug\GenericParameters.pdb
