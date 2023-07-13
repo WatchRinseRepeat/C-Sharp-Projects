@@ -1,0 +1,7 @@
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.AssemblyReference.cache
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\DateAndTime\DateAndTime\obj\Debug\DateAndTime.pdb
