@@ -1,0 +1,7 @@
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\bin\Debug\Input.exe.config
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\bin\Debug\Input.exe
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\bin\Debug\Input.pdb
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\obj\Debug\Input.exe
+C:\Users\saeyr\OneDrive\Desktop\Basic_C#_Programs\Input\Input\obj\Debug\Input.pdb
