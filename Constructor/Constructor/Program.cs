@@ -14,6 +14,10 @@ namespace Constructor
 
             var stringList = new List<String>(); //implicitly create variable
 
+            Example example = new Example();
+
+            Console.WriteLine(example.Name);
+
             Console.ReadLine();
         }
     }

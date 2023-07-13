@@ -1,0 +1,7 @@
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\saeyr\Documents\GitHub\C-Sharp-Projects\Constructor\Constructor\obj\Debug\Constructor.pdb
